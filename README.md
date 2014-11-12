@@ -5,4 +5,8 @@ famous-denver-boulder
 
 ###famous-denver-boulder.github.io
 
-This is the repo for the main meetup page.  Well hack this together!
+This is the for the dist build for the main meetup page.  Well hack this together!
+
+The repo is at https://github.com/famous-denver-boulder/fang-repo
+
+
